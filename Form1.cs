@@ -48,12 +48,9 @@ namespace Formulario_practica4
 
         private void BtnFinalizar_Click(object sender, EventArgs e)
         {
-            if (ValidarFormulario())
-            {
                 GuardarDatos();
                 MessageBox.Show("Registro finalizado. Los datos han sido guardados.", "Finalizado", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 this.Close();
-            }
         }
 
         private bool ValidarFormulario()

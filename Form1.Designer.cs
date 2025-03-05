@@ -117,10 +117,10 @@
             // 
             this.BtnGuardar.BackColor = System.Drawing.Color.Lime;
             this.BtnGuardar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnGuardar.Location = new System.Drawing.Point(62, 589);
+            this.BtnGuardar.Location = new System.Drawing.Point(122, 555);
             this.BtnGuardar.Margin = new System.Windows.Forms.Padding(4);
             this.BtnGuardar.Name = "BtnGuardar";
-            this.BtnGuardar.Size = new System.Drawing.Size(105, 28);
+            this.BtnGuardar.Size = new System.Drawing.Size(115, 42);
             this.BtnGuardar.TabIndex = 6;
             this.BtnGuardar.Text = "GUARDAR";
             this.BtnGuardar.UseVisualStyleBackColor = false;
@@ -129,10 +129,10 @@
             // 
             this.BtnBorrar.BackColor = System.Drawing.Color.Red;
             this.BtnBorrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnBorrar.Location = new System.Drawing.Point(354, 589);
+            this.BtnBorrar.Location = new System.Drawing.Point(280, 555);
             this.BtnBorrar.Margin = new System.Windows.Forms.Padding(4);
             this.BtnBorrar.Name = "BtnBorrar";
-            this.BtnBorrar.Size = new System.Drawing.Size(100, 28);
+            this.BtnBorrar.Size = new System.Drawing.Size(115, 42);
             this.BtnBorrar.TabIndex = 7;
             this.BtnBorrar.Text = "BORRAR";
             this.BtnBorrar.UseVisualStyleBackColor = false;
@@ -185,7 +185,7 @@
             this.GruopGenero.Controls.Add(this.RadioBFemenino);
             this.GruopGenero.Controls.Add(this.RadioBMasculino);
             this.GruopGenero.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.GruopGenero.Location = new System.Drawing.Point(112, 431);
+            this.GruopGenero.Location = new System.Drawing.Point(112, 424);
             this.GruopGenero.Margin = new System.Windows.Forms.Padding(4);
             this.GruopGenero.Name = "GruopGenero";
             this.GruopGenero.Padding = new System.Windows.Forms.Padding(4);
@@ -222,7 +222,7 @@
             // 
             this.BtnFinalizar.BackColor = System.Drawing.Color.Orange;
             this.BtnFinalizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnFinalizar.Location = new System.Drawing.Point(206, 589);
+            this.BtnFinalizar.Location = new System.Drawing.Point(402, 639);
             this.BtnFinalizar.Margin = new System.Windows.Forms.Padding(4);
             this.BtnFinalizar.Name = "BtnFinalizar";
             this.BtnFinalizar.Size = new System.Drawing.Size(113, 28);
@@ -235,7 +235,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MediumPurple;
-            this.ClientSize = new System.Drawing.Size(534, 709);
+            this.ClientSize = new System.Drawing.Size(528, 680);
             this.Controls.Add(this.BtnFinalizar);
             this.Controls.Add(this.GruopGenero);
             this.Controls.Add(this.label6);
