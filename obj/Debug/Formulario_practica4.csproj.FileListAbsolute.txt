@@ -8,3 +8,13 @@ C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4\bin\Deb
 C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4\bin\Debug\Formulario_practica4.pdb
 C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4\obj\Debug\Formulario_practica4.exe
 C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4\obj\Debug\Formulario_practica4.pdb
+C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4_c#\bin\Debug\Formulario_practica4.exe.config
+C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4_c#\bin\Debug\Formulario_practica4.exe
+C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4_c#\bin\Debug\Formulario_practica4.pdb
+C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4_c#\obj\Debug\Formulario_practica4.csproj.AssemblyReference.cache
+C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4_c#\obj\Debug\Formulario_practica4.Form1.resources
+C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4_c#\obj\Debug\Formulario_practica4.Properties.Resources.resources
+C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4_c#\obj\Debug\Formulario_practica4.csproj.GenerateResource.cache
+C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4_c#\obj\Debug\Formulario_practica4.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4_c#\obj\Debug\Formulario_practica4.exe
+C:\Users\josep\Desktop\Aitana\Programacion avanzada\Formulario_practica4_c#\obj\Debug\Formulario_practica4.pdb
